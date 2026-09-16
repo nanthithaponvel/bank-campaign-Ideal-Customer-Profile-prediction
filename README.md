@@ -325,3 +325,18 @@ bank_marketing_project/
     ├── best_model.joblib
     ├── full_customer_predictions.csv
     └── test_predictions.csv
+---
+
+## Dashboard Preview
+
+### Overview
+![Overview Dashboard](screenshots/overview.png)
+
+### Customer Targeting
+![Customer Targeting](screenshots/customer_targeting.png)
+
+### Business Insights
+![Business Insights](screenshots/business_insights.png)
+
+### Model Performance
+![Model Performance](screenshots/model_performance.png)
