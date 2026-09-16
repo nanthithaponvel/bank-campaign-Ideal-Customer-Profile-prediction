@@ -1,0 +1,6 @@
+feature,purpose
+age_group,Capture age-group differences
+campaign_intensity,Capture campaign contact intensity
+previous_contact_history,Identify previous campaign experience
+previous_contact_status,Identify whether customer was previously contacted
+campaign_contact_ratio,Capture relative contact activity

@@ -1,0 +1,17 @@
+BANK MARKETING PROJECT - KEY BUSINESS INSIGHTS
+======================================================================
+
+1. The overall subscription rate is 11.27%, indicating that the campaign has a relatively small positive-response segment.
+
+2. The highest subscription-rate job category is student, suggesting that customer occupation may be useful for campaign targeting.
+
+3. The highest-performing contact method is cellular, indicating that contact channel may influence campaign response.
+
+4. The strongest previous-campaign group is success, showing that previous campaign history may provide useful predictive information.
+
+5. The highest subscription-rate month is mar, suggesting that campaign timing may be relevant.
+
+6. The number of campaign contacts should be examined carefully because repeated contacts may not always improve response.
+
+7. Economic indicators should be evaluated together with customer and campaign characteristics rather than interpreted as isolated business rules.
+

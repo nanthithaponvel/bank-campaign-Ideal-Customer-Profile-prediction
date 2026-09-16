@@ -1,0 +1,8 @@
+feature,source,action,reason
+age_group,age,CREATE,Group customers into meaningful age ranges to capture possible nonlinear age effects.
+campaign_intensity,campaign,CREATE,Represent the number of contacts using meaningful contact-frequency groups.
+previous_contact_history,previous,CREATE,Distinguish customers with previous campaign experience from those without.
+previous_contact_status,pdays,CREATE,Convert pdays into a more interpretable indicator of whether the customer was previously contacted.
+campaign_contact_ratio,campaign + previous,CREATE,Capture relative campaign contact activity.
+economic_environment,emp.var.rate + cons.price.idx + cons.conf.idx + euribor3m + nr.employed,KEEP,Economic context may contain useful predictive information and will be evaluated by the models.
+duration,duration,EXCLUDE,Duration is known only after the current call and therefore creates data leakage.

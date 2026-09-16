@@ -1,0 +1,48 @@
+BANK MARKETING PROJECT
+BUSINESS PREDICTION ANALYSIS
+============================================================
+
+Total customers scored: 8238
+Average predicted subscription probability: 37.01%
+Predicted subscribers: 1426
+Predicted non-subscribers: 6812
+
+CAMPAIGN PRIORITY
+------------------------------
+High priority: 1057
+Medium priority: 1030
+Low priority: 6151
+
+TOP 10%
+------------------------------
+Customers: 824
+Average probability: 85.08%
+Predicted subscribers: 824
+
+TOP 20%
+------------------------------
+Customers: 1648
+Average probability: 72.71%
+Predicted subscribers: 1426
+
+TOP 30%
+------------------------------
+Customers: 2472
+Average probability: 62.05%
+Predicted subscribers: 1426
+
+BUSINESS INTERPRETATION
+------------------------------
+The model provides a customer-level ranking
+based on predicted subscription probability.
+
+Higher-probability customers can be prioritized
+for future marketing campaigns.
+
+The ranking can help the bank allocate campaign
+resources more efficiently than contacting all
+customers equally.
+
+This analysis is predictive and should not be
+interpreted as a guarantee that a customer will
+subscribe.

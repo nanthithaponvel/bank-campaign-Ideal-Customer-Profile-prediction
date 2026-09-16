@@ -1,0 +1,4 @@
+poutcome,Customers,Average_Probability,High_Priority,Predicted_Subscriptions
+success,268,87.34,237,258
+failure,823,45.01,198,248
+nonexistent,7147,34.2,622,920

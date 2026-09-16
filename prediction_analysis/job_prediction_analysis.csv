@@ -1,0 +1,13 @@
+job,Customers,Average_Probability,High_Priority,Predicted_Subscriptions
+student,164,62.15,88,104
+retired,354,55.17,157,177
+admin.,2108,39.83,339,449
+unemployed,216,38.07,40,55
+technician,1343,36.49,153,211
+management,579,36.43,70,96
+self-employed,322,35.98,35,54
+unknown,65,35.33,10,14
+housemaid,205,34.57,29,34
+entrepreneur,296,33.61,22,31
+services,773,33.03,52,86
+blue-collar,1813,31.12,62,115
